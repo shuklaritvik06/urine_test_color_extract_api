@@ -4,7 +4,11 @@ This project aims to develop a system for extracting the color information from 
 
 The goal of this project is to automate the process of extract all the colors from the urine test strips and return it as a json result. By leveraging computer vision techniques, we aim to create a system that can capture an image of a urine test strip and extract the relevant color information from it. This extracted color data can then be analyzed to determine the levels of different substances in the urine.
 
+![Screenshot from 2023-06-24 04-12-34](https://github.com/shuklaritvik06/alemeno-assignment/assets/72812470/df912246-3199-425b-b663-5e4653a7e536)
+
+
 ### Some Endpoints
+
 
 
 **Authentication** (No Permission Classes)
