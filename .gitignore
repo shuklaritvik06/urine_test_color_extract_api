@@ -5,6 +5,12 @@ node_modules
 .pnp
 .pnp.js
 
+db.sqlite3
+
+__pycache__
+
+.idea
+
 .env
 
 # testing
