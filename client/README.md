@@ -1,5 +1,9 @@
 # Urine Test Color Extraction Frontend
 
+This project aims to develop a system for extracting the color information from urine test strips. Urine tests are commonly used in medical diagnostics to detect various health conditions and monitor the overall well-being of individuals. The color of the urine test strips provides valuable information about the presence and concentration of certain substances in the urine, such as glucose, protein, ketones, and pH levels.
+
+The goal of this project is to automate the process of extract all the colors from the urine test strips and return it as a json result. By leveraging computer vision techniques, we aim to create a system that can capture an image of a urine test strip and extract the relevant color information from it. This extracted color data can then be analyzed to determine the levels of different substances in the urine.
+
 ## Setup Project
 
 In the project directory, you can run:
