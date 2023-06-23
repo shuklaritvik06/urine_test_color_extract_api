@@ -1,0 +1,22 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: urine-test-extract-api-deployment
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      app: urine-test-extract-api
+  template:
+    metadata:
+      labels:
+        app: urine-test-extract-api
+    spec:
+      containers:
+        - name: urine-test-extract-api
+          image: ritvikshukla/colorextract:latest
+          ports:
+            - containerPort: 8000
+          env:
+            - name: DJANGO_SETTINGS_MODULE
+              value: "api.settings.prod"
