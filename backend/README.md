@@ -51,7 +51,6 @@ The goal of this project is to automate the process of extract all the colors fr
       "email": "rakesh@rakesh.com",
       "first_name": "Rakesh",
       "last_name": "Nagar",
-      "role": "REGULAR",
       "registration_date": "2023-06-18",
       "registration_time": "16:08:43.678004"
     },
