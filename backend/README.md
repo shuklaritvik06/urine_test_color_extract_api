@@ -9,6 +9,9 @@ The goal of this project is to automate the process of extract all the colors fr
 
 ### Some Endpoints
 
+**Swagger Documentation**
+
+- /docs/swagger/
 
 
 **Authentication** (No Permission Classes)
