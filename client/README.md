@@ -4,6 +4,32 @@ This project aims to develop a system for extracting the color information from 
 
 The goal of this project is to automate the process of extract all the colors from the urine test strips and return it as a json result. By leveraging computer vision techniques, we aim to create a system that can capture an image of a urine test strip and extract the relevant color information from it. This extracted color data can then be analyzed to determine the levels of different substances in the urine.
 
+*Login Page*
+
+![Screenshot from 2023-06-24 07-04-39](https://github.com/shuklaritvik06/alemeno-assignment/assets/72812470/d1980743-a261-4761-a4f6-d1fe2f1675ca)
+
+
+*Register Page*
+
+![Screenshot from 2023-06-24 07-05-24](https://github.com/shuklaritvik06/alemeno-assignment/assets/72812470/ddd29804-b318-4769-b0d6-4ecb42b5311c)
+
+
+*Extract Color Page*
+
+![Screenshot from 2023-06-24 07-05-41](https://github.com/shuklaritvik06/alemeno-assignment/assets/72812470/4f636403-870d-400e-81ea-5084c5b89e59)
+
+*File Selected View*
+
+![Screenshot from 2023-06-24 07-05-52](https://github.com/shuklaritvik06/alemeno-assignment/assets/72812470/332b0c92-1881-4453-8e42-8a7f47c5ee6d)
+
+
+*JSON Viewer for Response*
+
+![Screenshot from 2023-06-24 07-06-02](https://github.com/shuklaritvik06/alemeno-assignment/assets/72812470/7b2cac08-2a48-4d2a-b11f-eb604b8aef88)
+
+
+
+
 ## Setup Project
 
 In the project directory, you can run:
