@@ -31,7 +31,6 @@ The goal of this project is to automate the process of extract all the colors fr
     "registration_time": "16:08:43.678004",
     "first_name": "Rakesh",
     "last_name": "Nagar",
-    "role": "REGULAR"
   }
 }
 ```
