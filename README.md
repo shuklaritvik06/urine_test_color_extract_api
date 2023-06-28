@@ -1,6 +1,6 @@
-# Alemeno Assignment
+# Urine Test Strip Color Extraction 
 
-Welcome to the Alemeno Backend Internship Assignment Solution Repository 👋. This project aims to develop a web application using Django, React, and other python libraries to extract color information from urine test strips.
+Welcome to the Urine Test Strip Color Extraction Assignment Solution Repository 👋. This project aims to develop a web application using Django, React, and other python libraries to extract color information from urine test strips.
 
 The Urine Test Strip Color Extractor project focuses on building a user-friendly web application that allows users to analyze urine test strips by extracting color information from the test strips. The project utilizes the following technologies:
 
